@@ -1,2 +1,8 @@
 # hello-world
-Create a new repos
+
+
+Hi Humans!!!
+
+Alien here.  I like chocolatescript and and and and 
+
+
